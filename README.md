@@ -7,5 +7,5 @@
 
 
 ### Sample run
-![Simplerun](https://user-images.githubusercontent.com/32389129/65376082-84aa2080-dca4-11e9-82de-7dc72472d73a.gif)
+<img width="730" alt="SampleRun" src="https://user-images.githubusercontent.com/32389129/67088702-7d483b00-f1ae-11e9-828a-69bce79a4b09.png">
 
