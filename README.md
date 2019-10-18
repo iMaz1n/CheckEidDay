@@ -4,6 +4,7 @@
 
 ### Code
 
+[<img width="200" alt="SampleRun" src="https://user-images.githubusercontent.com/32389129/67092214-53474680-f1b7-11e9-9dd5-966a185fa7f5.png">](Program.cpp)
 
 
 ### Sample run
