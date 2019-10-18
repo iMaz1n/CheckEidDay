@@ -4,7 +4,7 @@
 
 ### Code
 
-[<img width="200" alt="SampleRun" src="https://user-images.githubusercontent.com/32389129/67093336-103aa280-f1ba-11e9-985a-8404238afde7.png">](Program.cpp)
+[<img width="200" alt="SampleRun" src="https://user-images.githubusercontent.com/32389129/67093452-614a9680-f1ba-11e9-95b1-b56ae3e54e91.png">](Program.cpp)
 
 
 ### Sample run
